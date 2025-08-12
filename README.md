@@ -119,20 +119,21 @@ http://localhost:3100
 
 *(Optional: Add screenshots or a GIF here to showcase the app in action)*
 
-<img width="808" height="659" alt="9" src="https://github.com/user-attachments/assets/e3b2e290-eb54-41bf-bc84-ce19b0261291" />
-<img width="808" height="606" alt="8" src="https://github.com/user-attachments/assets/0f2edc4b-b480-4c26-b8d2-7c6c986b2423" />
-<img width="808" height="606" alt="7" src="https://github.com/user-attachments/assets/747e8168-7516-43d7-8350-121296792812" />
-<img width="809" height="543" alt="6" src="https://github.com/user-attachments/assets/257571ec-c802-4dc3-b92b-6b5f8b79cbde" />
-<img width="809" height="543" alt="5" src="https://github.com/user-attachments/assets/8277df86-e05e-449e-a4f8-ff5e29728f92" />
-<img width="811" height="814" alt="4" src="https://github.com/user-attachments/assets/9085d880-df72-4a22-8880-ea09209ac0a2" />
-<img width="811" height="814" alt="3" src="https://github.com/user-attachments/assets/c7467b16-4472-48f4-afdc-0a62bd0f82f8" />
-<img width="811" height="751" alt="2" src="https://github.com/user-attachments/assets/5a508b30-edfd-41a8-bfab-47cf756f4648" />
-<img width="811" height="751" alt="1" src="https://github.com/user-attachments/assets/9a805a9a-9dc0-43f5-bd38-e8d730cce77f" />
 
-
+<img width="811" height="751" alt="1" src="https://github.com/user-attachments/assets/a664b83e-122a-4e1b-b6a0-35f57d94e5d3" />
+<img width="811" height="751" alt="2" src="https://github.com/user-attachments/assets/27ac6745-6e5c-4594-a62f-64c7da736d7f" />
+<img width="811" height="814" alt="3" src="https://github.com/user-attachments/assets/40b891d8-3256-4f56-b25a-b5750295dea4" />
+<img width="811" height="814" alt="4" src="https://github.com/user-attachments/assets/ec740573-c841-48c7-aaba-e8da6691c0f9" />
+<img width="809" height="543" alt="5" src="https://github.com/user-attachments/assets/b951bdd8-28e0-4ec9-859b-5e775b242ddd" />
+<img width="809" height="543" alt="6" src="https://github.com/user-attachments/assets/c16652dc-ef22-43a5-a67d-3a1466068f82" />
+<img width="808" height="606" alt="7" src="https://github.com/user-attachments/assets/2b6e3945-87be-49e5-8a9c-0e1a46090391" />
+<img width="808" height="606" alt="8" src="https://github.com/user-attachments/assets/b26b040e-e217-4297-b1f3-f59ec47d972f" />
+<img width="808" height="659" alt="9" src="https://github.com/user-attachments/assets/9cc9833d-25e6-47f7-aa17-c9754e1e85d8" />
 
 
 ---
+
+
 
 💡 **Pro Tip:** This project is a great starting point for learning **microservices, JWT authentication, and container orchestration**.
 
