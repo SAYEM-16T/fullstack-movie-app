@@ -117,8 +117,6 @@ http://localhost:3100
 
 ## 📸 Demo Preview
 
-*(Optional: Add screenshots or a GIF here to showcase the app in action)*
-
 
 <img width="811" height="751" alt="1" src="https://github.com/user-attachments/assets/a664b83e-122a-4e1b-b6a0-35f57d94e5d3" />
 <img width="811" height="751" alt="2" src="https://github.com/user-attachments/assets/27ac6745-6e5c-4594-a62f-64c7da736d7f" />
